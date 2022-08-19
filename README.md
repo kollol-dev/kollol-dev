@@ -30,7 +30,7 @@
 
 -   🔭 Currently working at [Dorik](https://dorik.com/)
 
--   🌱 Currently learning **MICROSERVICE**
+-   🌱 Currently learning **MICROSERVICE ARCHITECTURE**
 
 -   👯 I’m looking to collaborate on **Open-source node.js projects**
 
