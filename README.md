@@ -2,21 +2,21 @@
 <h3 align="center">A passionate BACKEND DEVELOPER from Bangladesh</h3>
 
 <p align="center">
-    <a href="https://twitter.com/kollolc_" target="blank">
+    <a href="https://twitter.com/kollolc_" target="_blank">
         <img align="center"
             alt="kollolc_"
             height="30"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
             width="40" />
     </a>
-    <a href="https://linkedin.com/in/kollol-dev" target="blank">
+    <a href="https://linkedin.com/in/kollol-dev" target="_blank">
         <img align="center"
             alt="kollol-dev"
             height="30"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
             width="40"/>
     </a>
-    <a href="https://fb.com/kollolc" target="blank">
+    <a href="https://fb.com/kollolc" target="_blank">
         <img align="center"
             alt="kollolc"
             height="30"
