@@ -28,7 +28,7 @@
 ----
 </br>
 
--   🔭 Currently working at [Dorik](https://dorik.com/)
+<!-- -   🔭 Currently working at [Dorik](https://dorik.com/) -->
 
 -   🌱 Currently learning **MICROSERVICE ARCHITECTURE**
 
