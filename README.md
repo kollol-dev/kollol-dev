@@ -1,29 +1,20 @@
+[![](https://visitcount.itsvg.in/api?id=kollol.dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <h1 align="center">Hi 👋, I'm Kollol Chakraborty</h1>
 <h3 align="center">A passionate BACKEND DEVELOPER from Bangladesh</h3>
 
 <p align="center">
-    <a href="https://twitter.com/kollolc_" target="_blank">
-        <img align="center"
-            alt="kollolc_"
-            height="30"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-            width="40" />
-    </a>
     <a href="https://linkedin.com/in/kollol-dev" target="_blank">
-        <img align="center"
-            alt="kollol-dev"
-            height="30"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-            width="40"/>
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://fb.com/kollolc" target="_blank">
-        <img align="center"
-            alt="kollolc"
-            height="30"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-            width="40"/>
+    <a href="https://x.com/kollolc_" target="_blank">
+        <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+    </a>
+    <a href="https://facebook.com/kollolc" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
     </a>
 </p>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kollolc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kollol-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kollolc_) 
 
 ----
 </br>
@@ -38,114 +29,33 @@
 
 </br>
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Languages:</h3>
 
 </br>
 
-<table>
-    <tbody>
-    <tr>
-        <td>
-            <a href="https://nodejs.org" target="_blank">
-                <img alt="nodejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> 
-            </a>
-        </td>
-        <td>
-            <a href="https://expressjs.com" target="_blank">
-                <img alt="express" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-                <img alt="javascript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mongodb.com/" target="_blank">
-                <img alt="mongodb" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.mysql.com/" target="_blank">
-                <img alt="mysql" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://git-scm.com/" target="_blank"> 
-                <img alt="git" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://graphql.org" target="_blank"> 
-                <img alt="graphql" height="40" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://ubuntu.com/" target="_blank">
-                <img alt="kafka" height="40" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.nginx.org/" target="_blank">
-                <img alt="nginx" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://mochajs.org" target="_blank">
-                <img alt="mocha" height="40" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.docker.com/" target="_blank">
-                <img alt="docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://heroku.com" target="_blank">
-                <img alt="heroku" height="40" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://aws.amazon.com/" target="_blank">
-                <img alt="aws" height="40" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.rabbitmq.com" target="_blank">
-                <img alt="rabbitMQ" height="40" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://redis.io" target="_blank">
-                <img alt="redis" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://www.typescriptlang.org/" target="_blank">
-                <img alt="typescript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://html.spec.whatwg.org/" target="_blank"><img alt="HTML5"
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                title="HTML5"/>
-            </a>
-        </td>
-    </tr>
-    </tbody>
-</table>
+| **Programming Languages** | **Frameworks & Libraries** | **Databases** | **DevOps & Cloud** | **Tools** |
+|----------------------------|----------------------------|---------------|--------------------|-----------|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
+| ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) | ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) |
+| ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) | ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) | | |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | | | |
 
-</br>
-<h3 align="left">View my stats on Github:</h3>
-</br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kollol-dev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+## 🏆 View my stats on Github:
 
 [![Kollol Chakraborty](https://github-readme-stats.vercel.app/api?username=kollol-dev&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl)]()
 
 [![Langguages](https://github-readme-stats.vercel.app/api/top-langs/?username=kollol-dev&hide=stylus,java&langs_count=10&theme=nightowl)]()
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=kollol-dev&theme=vue-dark&hide_border=false)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kollol-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
